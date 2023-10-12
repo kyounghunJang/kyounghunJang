@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 
+### Framework
+<div>
+  <img src="https://img.shields.io/badge/apache spark-E25A1C?style=for-the-badge&logo=apache spark&logoColor=black">
+  <img src="https://img.shields.io/badge/apache kafka-E25A1C?style=for-the-badge&logo=apache kafka&logoColor=black">
+</div>
+
 ### Database
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=black">
