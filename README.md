@@ -38,3 +38,8 @@
   <img src="https://img.shields.io/badge/AMAZON EC2-FF9900?style=for-the-badge&logo=AMAZON EC2&logoColor=white">
   <img src="https://img.shields.io/badge/AWS lambda-FF9900?style=for-the-badge&logo=AWS lambda&logoColor=white">
 </div>
+
+
+## 수상경력
+---
+- 2023 한이음 ICT멘토링 입선([HF_054]개인정보 비식별 처리)
