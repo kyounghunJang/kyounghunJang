@@ -40,6 +40,14 @@
 </div>
 
 
-## 수상경력
+## Awards
 ---
 - 2023 한이음 ICT멘토링 입선([HF_054]비정형개인정보 비식별처리 기술 개발)
+
+## Certification
+---
+- ADSP
+- SQLD
+- 리눅스 마스터 2급
+- 네트워크 관리사 2급
+- AWS Certified Solutions Architect - Associate(SAA)
